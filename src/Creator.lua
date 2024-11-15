@@ -1,1 +1,1 @@
-local Icons = require("../Lucide/Icons/init")
+local Icons = require("../Icons/Init.lua")
