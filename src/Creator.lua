@@ -1,3 +1,9 @@
+
+local RunService = game:GetService("RunService")
+local RenderStepped = RunService.Heartbeat
+local UserInputService = game:GetService("UserInputService")
+local TweenService = game:GetService("TweenService")
+
 local Icons = require("../Icons/Init.lua")
 local Creator = {}
 
