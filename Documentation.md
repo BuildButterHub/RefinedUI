@@ -16,3 +16,21 @@ local Window = RefinedUI:UI({
 	Transparency = true --UI Transparency
 })
 ```
+
+<hr>
+
+## Create Tab
+```lua
+local Tab = RefinedUI:Tab({
+	Title = "main",
+	Icon = "rbxassetid://78414666186178" --ID or rbxassetid
+})
+```
+
+##Create Section
+```lua
+local Section = Tab:Section({
+	Title = "Section 1",
+	Default = true
+})
+```
