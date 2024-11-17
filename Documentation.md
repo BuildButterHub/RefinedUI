@@ -5,7 +5,7 @@ local RefinedUI =
 
 <hr>
 
-- Create Window
+## Create Window
 ```lua
 local Window = RefinedUI:UI({
 	Title = "UI Library", --Ui title
