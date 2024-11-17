@@ -71,7 +71,7 @@ Section:Toggle({
 
 <hr>
 
-##Create Slider
+## Create Slider
 ```lua
 Section:Slider({
 	Title = "Slider",
