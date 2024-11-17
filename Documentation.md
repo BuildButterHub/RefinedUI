@@ -13,7 +13,7 @@ local Window = RefinedUI:UI({
 	Theme = "DarkTheme", --Ui Theme
 	Icon = "rbxassetid://120817848459191", --ID or rbxassetid
 	Folder = "RefinedUi", --Folder name
-	Transparency = true --UI Transparency
+	Transparency = false --UI Transparency
 })
 ```
 
