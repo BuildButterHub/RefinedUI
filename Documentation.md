@@ -75,7 +75,7 @@ Section:Toggle({
 ```lua
 Section:Slider({
 	Title = "Slider",
-	Step = 10, --Step slider
+	Step = 1, --Step slider
 	Value = {
 		Min = 1,
 		Max = 120,
