@@ -181,7 +181,6 @@ function Library:UI(Config)
 		MainFrame:Destroy()
 	end)
 
-	--local RightFolder = Library:Create("Folder", {Parent = MainFrame})
 	local ContairFrame = Library:Create("Frame", {
 		Name = "ContairFrame",
 		Parent = MainFrame,
